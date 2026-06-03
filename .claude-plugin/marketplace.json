@@ -1,5 +1,5 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "secdb-skills",
   "description": "Vulnerability scanning skills powered by ZEN SecDB",
   "owner": {
@@ -12,7 +12,13 @@
       "source": "./",
       "description": "Vulnerability scanning skills powered by ZEN SecDB. Provides purl_audit-powered dependency auditing for npm, pypi, gem, golang, maven, cargo, composer, and nuget ecosystems.",
       "version": "1.0.0",
-      "category": "security"
+      "category": "security",
+      "license": "MIT",
+      "skills": [
+        "./secdb-audit-package",
+        "./secdb-sbom-package",
+        "./secdb-security-package"
+      ]
     }
   ]
 }

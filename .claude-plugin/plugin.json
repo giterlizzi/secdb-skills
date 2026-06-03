@@ -7,5 +7,10 @@
   },
   "license": "MIT",
   "homepage": "https://secdb.nttzen.cloud",
-  "repository": "https://github.com/giterlizzi/secdb-skills"
+  "repository": "https://github.com/giterlizzi/secdb-skills",
+  "mcpServers": {
+    "zen-secdb": {
+      "url": "https://secdb.nttzen.cloud/mcp"
+    }
+  }
 }
