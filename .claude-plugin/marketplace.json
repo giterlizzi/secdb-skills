@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "secdb-skills",
+  "description": "Vulnerability scanning skills powered by ZEN SecDB",
+  "owner": {
+    "name": "Giuseppe Di Terlizzi",
+    "email": "giuseppe.diterlizzi@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "secdb-skills",
+      "source": "./",
+      "description": "Vulnerability scanning skills powered by ZEN SecDB. Provides purl_audit-powered dependency auditing for npm, pypi, gem, golang, maven, cargo, composer, and nuget ecosystems.",
+      "version": "1.0.0",
+      "category": "security"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "zen-secdb": {
+      "type": "sse",
+      "url": "https://secdb.nttzen.cloud/mcp"
+    }
+  }
+}

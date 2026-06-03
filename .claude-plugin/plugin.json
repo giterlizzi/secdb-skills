@@ -1,0 +1,11 @@
+{
+  "name": "secdb-skills",
+  "description": "Vulnerability scanning skills powered by ZEN SecDB. Provides purl_audit-powered dependency auditing for npm, pypi, gem, golang, maven, cargo, composer, and nuget ecosystems.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Giuseppe Di Terlizzi"
+  },
+  "license": "MIT",
+  "homepage": "https://secdb.nttzen.cloud",
+  "repository": "https://github.com/giterlizzi/secdb-skills"
+}
