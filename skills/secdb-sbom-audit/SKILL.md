@@ -17,7 +17,7 @@ The **ZEN SecDB** MCP server must be configured. See README.md for setup instruc
 ## Usage
 
 ```
-/project:sbom-audit [path/to/bom.json]
+/secdb-sbom-audit [path/to/bom.json]
 ```
 
 If no path is provided, scan the current directory for `bom.json` or `bom.xml` files.

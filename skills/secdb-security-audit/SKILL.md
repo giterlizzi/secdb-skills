@@ -14,6 +14,12 @@ Scan the current project for vulnerable dependencies using ZEN SecDB.
 
 The **ZEN SecDB** MCP server must be configured. See README.md for setup instructions.
 
+## Usage
+
+```
+/secdb-security-audit
+```
+
 ## Steps
 
 1. **Detect project type** by scanning for manifest files in the current directory and subdirectories:

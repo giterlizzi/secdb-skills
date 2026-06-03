@@ -17,7 +17,7 @@ The **ZEN SecDB** MCP server must be configured. See README.md for setup instruc
 ## Usage
 
 ```
-/project:audit-package [target]
+/secdb-audit-package [target]
 ```
 
 Where `[target]` can be:
