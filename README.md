@@ -11,16 +11,6 @@ Compatible with Claude Code, Codex CLI, Gemini CLI, GitHub Copilot, Cursor, and 
 npx skills add giterlizzi/secdb-skills
 ```
 
-**Claude Code (plugin marketplace):**
-```bash
-claude plugin install secdb-skills@giterlizzi
-```
-
-**Claude Code (community marketplace):**
-```bash
-claude plugin marketplace add giterlizzi/secdb-skills
-```
-
 **Manual install**
 
 Copy skills to your agent's directory:
